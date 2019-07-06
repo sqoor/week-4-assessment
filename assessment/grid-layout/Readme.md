@@ -1,5 +1,5 @@
-  ##Grid Assessment
-  #Instruction
+# Grid Layout Assessment
+## Instructions
 
   - PLease put your code in the CODE AREA.
   - Only Use (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) as a reference.</li>
