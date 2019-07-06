@@ -1,5 +1,5 @@
-#Bootstrap Assessment
-##Instructions
+# Bootstrap Assessment
+## Instructions
    - You should use the starter file [bootstrap-assessment](bootstrap-assessment.html).
    - You should not modify the HTML structure.
    - PLease put your code in the CODE AREA.
